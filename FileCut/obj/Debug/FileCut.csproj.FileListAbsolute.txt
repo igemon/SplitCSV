@@ -11,3 +11,16 @@ c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\Fi
 c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.exe
 c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.pdb
+D:\git\SplitCSV\FileCut\bin\Debug\FileCut.exe.config
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.exe
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.pdb
+D:\git\SplitCSV\FileCut\bin\Debug\FileCut.exe
+D:\git\SplitCSV\FileCut\bin\Debug\FileCut.pdb
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.csprojResolveAssemblyReference.cache
+D:\git\SplitCSV\FileCut\obj\Debug\MainWindow.baml
+D:\git\SplitCSV\FileCut\obj\Debug\MainWindow.g.cs
+D:\git\SplitCSV\FileCut\obj\Debug\App.g.cs
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut_MarkupCompile.cache
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.g.resources
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.Properties.Resources.resources
+D:\git\SplitCSV\FileCut\obj\Debug\FileCut.csproj.GenerateResource.Cache

@@ -7,7 +7,7 @@
         <Button x:Name="bt_browse" Content="Обзор" Height="25" Margin="39,46,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="81" Click="bt_browse_Click"/>
         <ComboBox x:Name="cb_mode" HorizontalAlignment="Left" Height="25" Margin="143,123,0,0" VerticalAlignment="Top" Width="213" SelectionChanged="cb_mode_SelectionChanged">
             <ComboBoxItem IsSelected="True">На части</ComboBoxItem>
-            <ComboBoxItem >По колличеству строк</ComboBoxItem>
+            <ComboBoxItem >По количеству строк</ComboBoxItem>
         </ComboBox>
         <TextBox x:Name="tb_chast" HorizontalAlignment="Left" Height="24" Margin="39,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" Text="2"/>
         <TextBox x:Name="tb_strok" HorizontalAlignment="Left" Height="24" Margin="278,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Text="30" IsEnabled="False"/>
