@@ -1,0 +1,23 @@
+﻿<Window x:Class="FileCut.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Разделитель файлов" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="tb_file" HorizontalAlignment="Left" Height="25" Margin="39,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="317" PreviewKeyDown="tb_file_PreviewKeyDown"/>
+        <Button x:Name="bt_browse" Content="Обзор" Height="25" Margin="39,46,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="81" Click="bt_browse_Click"/>
+        <ComboBox x:Name="cb_mode" HorizontalAlignment="Left" Height="25" Margin="143,123,0,0" VerticalAlignment="Top" Width="213" SelectionChanged="cb_mode_SelectionChanged">
+            <ComboBoxItem IsSelected="True">На части</ComboBoxItem>
+            <ComboBoxItem >По колличеству строк</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="tb_chast" HorizontalAlignment="Left" Height="24" Margin="39,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" Text="2"/>
+        <TextBox x:Name="tb_strok" HorizontalAlignment="Left" Height="24" Margin="278,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167" Text="30" IsEnabled="False"/>
+        <Label Content="Частей:" HorizontalAlignment="Left" Height="27" Margin="39,171,0,0" VerticalAlignment="Top" Width="184"/>
+        <Label Content="Строк" HorizontalAlignment="Left" Height="27" Margin="278,171,0,0" VerticalAlignment="Top" Width="167"/>
+        <Button x:Name="bt_open" Content="Открыть" HorizontalAlignment="Left" Height="25" Margin="370,21,0,0" VerticalAlignment="Top" Width="75" Click="bt_open_Click"/>
+        <Button x:Name="bt_convert" Content="Convert" HorizontalAlignment="Left" Height="28" Margin="358,247,0,0" VerticalAlignment="Top" Width="87" Click="bt_convert_Click" IsEnabled="False"/>
+        <TextBox x:Name="tb_name_out" HorizontalAlignment="Left" Height="28" Margin="185,247,0,0" TextWrapping="Wrap" Text="output" VerticalAlignment="Top" Width="152"/>
+        <Label Content="Имя исходных файлов:" HorizontalAlignment="Left" Margin="39,247,0,0" VerticalAlignment="Top" Width="141"/>
+        <Label Content="Как делить?" HorizontalAlignment="Left" Height="30" Margin="202,93,0,0" VerticalAlignment="Top" Width="89"/>
+
+    </Grid>
+</Window>

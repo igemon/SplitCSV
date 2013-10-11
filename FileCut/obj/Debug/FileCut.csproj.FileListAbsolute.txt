@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\bin\Debug\FileCut.exe.config
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\bin\Debug\FileCut.exe
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\bin\Debug\FileCut.pdb
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.g.resources
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.exe
+c:\users\user\documents\visual studio 2013\Projects\FileCut\FileCut\obj\Debug\FileCut.pdb
